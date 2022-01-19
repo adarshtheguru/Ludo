@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    background-color: blueviolet;
+}
+table{
+    background-color: antiquewhite; border-color: black; border-collapse: collapse; height: auto;width: auto;border-width: thick
+}
+th {
+    height:50px;width:50px
+}
